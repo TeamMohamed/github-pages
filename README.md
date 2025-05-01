@@ -1,75 +1,40 @@
-<header>
+ECS Biohacked | Quantum Vault Storefront
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Welcome to the official GitHub Pages site for ECS Biohacked — a multi-platform initiative pioneering advanced cancer protocols, quantum-integrated therapeutics, and sovereign healing systems.
 
-# GitHub Pages
+🔬 Quantum Vault Offerings
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+- 10+ Books (Cancer, Epilepsy, ECS, Hallmarks, miRNA, and more)
+- 4 Signature Courses (Quantum Blueprint, ECS + Ayurveda, Biohacking Kit, 3-Day Activation)
+- Therapeutic OS Platforms (Cancer OS, Neuro OS, DNA OS)
+- Precision AI App Concept for Oncology & Longevity (Phase 2)
+- Zenodo/Preprint White Papers (26+ timestamped publications)
 
-</header>
+🌐 Live Site
 
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
+👉 Visit: [https://ecsbiohacked.com](https://ecsbiohacked.com)
 
-## Welcome
+📦 Repo Features
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+- `index.html` — Full storefront with product grid and CTA buttons
+- `favicon.ico` — Branding icon
+- `CNAME` — Live domain: ecsbiohacked.com
+- `.github/workflows/github-pages.yml` — Auto-deployment pipeline
 
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course takes less than one hour to complete.
+🚧 Coming Soon
 
-In this course, you will:
+- miRNA Mastery & Cancer Control Guide (Book)
+- Decoding Cancer's 23 Hallmarks (Book)
+- The Miriam Protocol Series (Course)
+- AI-Integrated Nootropics Kit
+- Quantum Vault Licensing Portal
 
-1. Enable GitHub Pages
-2. Configure your site
-3. Customize your home page
-4. Create a blog post
-5. Merge your pull request
+📬 Contact & Collaborations
 
-### How to start this course
+This repository is part of an open-access, sovereign science initiative. If you're aligned with this mission, feel free to reach out:
 
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'github-pages',
-  owner: '@me',
-  name: 'skills-github-pages',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
+- GitHub: [@TeamMohamed](https://github.com/TeamMohamed)
+- Email: ecssignalling@gmail.com
+- Direct collaborations: Open via email or GitHub messages
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
-
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+> “We are not hacking biology. We are decoding it.” – A.M.
